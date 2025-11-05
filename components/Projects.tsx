@@ -52,7 +52,7 @@ const projects = [
     {
         title: "BusX",
         description: "Bus Ticket Application that Shows Bus Schedules and makes purchases",
-        image: "BusX.png",
+        image: "busx.png",
         tags: ["Vite", "TypeScript", "TailwindCss","Node.js","Express.js","MongoDB","Playwright", "Cypress"],
     },
 ]
