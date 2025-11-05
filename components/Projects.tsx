@@ -28,7 +28,7 @@ const projects = [
     {
         title: "Netflix Clone",
         description: "Netflix Clone Page",
-        image: "netflx.png",
+        image: "netflix.png",
         tags: ["React", "TypeScript", "TailwindCss"],
     },
     {
