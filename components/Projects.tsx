@@ -38,22 +38,16 @@ const projects = [
         tags: ["Next.Js", "TypeScript", "TailwindCss","shadcnUI"],
     },
     {
-        title: "Twitter Clone",
-        description: "Twitter Clone Page",
-        image: "twitter.png",
-        tags: ["Next.Js", "TypeScript", "TailwindCss","shadcnUI"],
+        title: "BusX",
+        description: "Bus Ticket Application that Shows Bus Schedules and makes purchases",
+        image: "busx.png",
+        tags: ["Vite", "TypeScript", "TailwindCss","Node.js","Express.js","MongoDB","Playwright", "Cypress"],
     },
     {
         title: "Alcohol Menü Page",
         description: "Study showing General Alcohol Prices in Turkey",
         image: "alcohol.png",
         tags: ["Vue.js","Vue3", "TypeScript", "TailwindCss","Node.js","Express.js","MongoDB"],
-    },
-    {
-        title: "BusX",
-        description: "Bus Ticket Application that Shows Bus Schedules and makes purchases",
-        image: "busx.png",
-        tags: ["Vite", "TypeScript", "TailwindCss","Node.js","Express.js","MongoDB","Playwright", "Cypress"],
     },
 ]
 
